@@ -26,7 +26,7 @@ Steps are shown on python animation provided by original project.
 
 Start application in project folder with:
 
-    python run_experiments.py --instance instances/exp0.txt --solver Prioritized
+    python code/run_experiments.py --instance code/instances/exp0.txt --solver Prioritized
     
     
 exp0 represents map of your choice.
