@@ -14,6 +14,7 @@ On this project I focused on simple implementation of MAPF using A star path
 finding and collision prevention with time-space domain constraining.
 
 This project provides two solutions:
+
 Naive solution with hand-made constraints for 2 agents on map exp2_1.txt.
 A star path finding for agents on maps exp0.txt - exp4.txt.
 
