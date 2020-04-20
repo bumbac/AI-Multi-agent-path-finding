@@ -23,7 +23,10 @@ Application provides dialogue console interface for choosing type of solutions.
 Steps are shown on python animation provided by original project.
 
 Start application in project folder with:
-python run_experiments.py --instance instances/exp0.txt --solver Prioritized
+
+    python run_experiments.py --instance instances/exp0.txt --solver Prioritized
+    
+    
 exp0 represents map of your choice.
 All maps are in ./instances folder.
 
