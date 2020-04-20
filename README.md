@@ -1,12 +1,14 @@
 Assignment n. 4: MAPF
 
 Project based on:
+
 A Project on Multi-Agent Path Finding
 Wolfgang Hönig, California Institute of Technology 
 (formerly University of Southern California)
+
 Jiaoyang Li, University of Southern California
 Sven Koenig, University of Southern California 
-http://modelai.gettysburg.edu/2020/mapf/
+            http://modelai.gettysburg.edu/2020/mapf/
 
 Project requires Python3 and above.
 
